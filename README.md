@@ -7,3 +7,4 @@ This is the master.
 This is the branch2. 
 merge master and branch2, then merge with branch1
 
+Now create the branch3.
